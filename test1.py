@@ -1,1 +1,1 @@
-print("chltngur")
+print("chl tn gur")
